@@ -13,4 +13,4 @@ markdown发帖格式可以参考这里 https://github.com/younghz/Markdown
 - QQ群 375046024
 
 
-![image]（https://thailiao.com/upload/attach/201909/1295_6MARZ832Z8SEHRQ.jpg）
+![image](https://thailiao.com/upload/attach/201909/1295_6MARZ832Z8SEHRQ.jpg)
